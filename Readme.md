@@ -10,7 +10,7 @@ This Code Is Designed To Hide/Retrieve Text Files From BMP Format Images.
     Steganography.c - Functions Prototype And The Main Function
     Decode.c        - Decoding Function.
     Encode.c        - Encoding Function.
-# Steps For The Execution of The Program:
+# Follow Steps To Execute The Program:
 
     ~$ cc Steganography.c -o Stegano
 
