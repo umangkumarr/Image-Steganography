@@ -19,15 +19,15 @@ This Code Is Designed To Hide/Retrieve Text Files From BMP Format Images.
 
     ~$ ./Stegano -E -i input_image.bmp -s secret_text.txt -o output_image.bmp
 
-input_image.bmp - Initial image
-secret_text.txt - Text to Encrypt in input_image.bmp
-output_image.bmp - Final Image after Encryption
+input_image.bmp - Initial image  
+secret_text.txt - Text to Encrypt in input_image.bmp  
+output_image.bmp - Final Image after Encryption  
 
 # Decoding
 
     ~$ ./Stegano -D -i output_image.bmp -o out_text.txt
 
-output_image.bmp - Image with Embedded Text
+output_image.bmp - Image with Embedded Text  
 out_text.txt     - Text retrieved.
 
 # Index
